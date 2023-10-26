@@ -45,15 +45,15 @@ public class Test {
 
 class Student {
 
-    String studentID = ;
-    String firstName = ;
-    String middleName = ;
-    String lastName = ;
-    String suffix = ;
-    int age = ;
-    int yearLevel = ;
-    String phoneNumber = ;
-    String email = ;
+    String studentID = studentID;
+    String firstName = firstName;
+    String middleName = middleName;
+    String lastName = lastName;
+    String suffix = suffix;
+    int age = age;
+    int yearLevel = yearLevel;
+    String phoneNumber = phoneNumber;
+    String email = email;
 
     public Student() {
     }
